@@ -1,0 +1,44 @@
+[
+    {
+        "id":1,
+        "name": "Simple Item 1",
+        "image_link": "https://picsum.photos/id/237/536/354",
+        "price": 20000,    
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+    },
+    {
+        "id":2,
+        "name": "Simple Item 2",
+        "image_link": "https://picsum.photos/id/238/536/354",
+        "price": 30000,    
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+    },
+    {
+        "id":3,
+        "name": "Simple Item 3",
+        "image_link": "https://picsum.photos/id/239/536/354",
+        "price": 40000,    
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+    },
+    {
+        "id":4,
+        "name": "Simple Item 4",
+        "image_link": "https://picsum.photos/id/240/536/354",
+        "price": 50000,    
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+    },
+    {
+        "id":5,
+        "name": "Simple Item 5",
+        "image_link": "https://picsum.photos/id/241/536/354",
+        "price": 60000,    
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+    },
+    {
+        "id":6,
+        "name": "Simple Item 6",
+        "image_link": "https://picsum.photos/id/242/536/354",
+        "price": 70000,    
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+    }
+]
